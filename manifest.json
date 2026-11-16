@@ -1,0 +1,9 @@
+{
+  "name": "Monitoring Paket Pekerjaan",
+  "short_name": "Paket Kerja",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait"
+}
